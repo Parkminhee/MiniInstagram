@@ -1,0 +1,11 @@
+C:\Users\pminh\Desktop\인스타그램(최종)\인스타그램(최종)\bin\Debug\인스타그램(최종).exe
+C:\Users\pminh\Desktop\인스타그램(최종)\인스타그램(최종)\bin\Debug\인스타그램(최종).pdb
+C:\Users\pminh\Desktop\인스타그램(최종)\인스타그램(최종)\obj\Debug\인스타그램-Server.csprojResolveAssemblyReference.cache
+C:\Users\pminh\Desktop\인스타그램(최종)\인스타그램(최종)\obj\Debug\인스타그램_최종_.Form1.resources
+C:\Users\pminh\Desktop\인스타그램(최종)\인스타그램(최종)\obj\Debug\인스타그램_최종_.Properties.Resources.resources
+C:\Users\pminh\Desktop\인스타그램(최종)\인스타그램(최종)\obj\Debug\인스타그램-Server.csproj.GenerateResource.Cache
+C:\Users\pminh\Desktop\인스타그램(최종)\인스타그램(최종)\obj\Debug\인스타그램-Server.csproj.CoreCompileInputs.cache
+C:\Users\pminh\Desktop\인스타그램(최종)\인스타그램(최종)\obj\Debug\인스타그램(최종).exe
+C:\Users\pminh\Desktop\인스타그램(최종)\인스타그램(최종)\obj\Debug\인스타그램(최종).pdb
+C:\Users\pminh\Desktop\인스타그램(최종)\인스타그램(최종)\bin\Debug\ClassLibrary1.dll
+C:\Users\pminh\Desktop\인스타그램(최종)\인스타그램(최종)\bin\Debug\ClassLibrary1.pdb

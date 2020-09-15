@@ -1,0 +1,6 @@
+C:\Users\pminh\Desktop\인스타그램(최종)\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\pminh\Desktop\인스타그램(최종)\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\pminh\Desktop\인스타그램(최종)\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
+C:\Users\pminh\Desktop\인스타그램(최종)\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\pminh\Desktop\인스타그램(최종)\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\pminh\Desktop\인스타그램(최종)\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
